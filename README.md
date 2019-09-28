@@ -1,5 +1,10 @@
-# Beginner Session 1
+# __Beginner Session 1__
 Notes and references for the first beginners session.
 
-## References
-- [The presentation](https://slides.com/cynergycodingclub/deck#/)
+## __References__
+- [Presentation](https://slides.com/cynergycodingclub/deck#/)
+- [Notes](/notes.pdf)
+- [Question bank](/question-back.pdf)
+
+## __Instructors Of This Session__
+- Shikhar
