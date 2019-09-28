@@ -6,4 +6,4 @@ In the first session, C++ was introduced. The basics of programming languages, s
 The first session is in the branch called "session-1". [Click here to access session 1's notes and references](https://github.com/cynergy-ruas/beginner-session/tree/session-1).
 
 ## __Instructors__
-- Shikhar
+- Shikhar Singh
