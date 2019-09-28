@@ -7,4 +7,4 @@ Notes and references for the first beginners session.
 - [Question bank](/question-back.pdf)
 
 ## __Instructors Of This Session__
-- Shikhar
+- Shikhar Singh
