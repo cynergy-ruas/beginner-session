@@ -4,7 +4,7 @@ Notes and references for the first beginners session.
 ## __References__
 - [Presentation](https://slides.com/cynergycodingclub/deck#/)
 - [Notes](/notes.pdf)
-- [Question bank](/question-back.pdf)
+- [Question bank](/question-bank.pdf)
 
 ## __Instructors Of This Session__
 - Shikhar Singh
